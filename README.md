@@ -1,4 +1,4 @@
-![dm](https://i.imgur.com/sQ7g7pS.png)
+![dm](https://i.imgur.com/T0WROja.png)
 
 ## Discord Music
 **an open source music bot, listen to YouTube music with this bot or create yours from this.**  
